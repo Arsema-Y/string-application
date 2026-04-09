@@ -29,6 +29,6 @@ public class VariableApp {
 
         System.out.println("In the past " + daysOfWeek + " days, I have been ordering coffee with my last " + coffeePrice + " dollars for " + favLetter + " because the weather app has been indicating the rain status is " + isRaining);
 
-        //step 3
+        //step 3 on Receipt class
     }
 }
