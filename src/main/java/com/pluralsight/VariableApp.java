@@ -1,4 +1,29 @@
 package com.pluralsight;
 
 public class VariableApp {
+    public static void main(String[] args) {
+        // question 1
+        // declare var
+        // code solution
+        // print result
+
+        //step 1
+        String favColor = "Blue";
+        short classStartYear = 2026;
+        char middleInitial = 'A';
+        boolean havePets = true;
+        String niceMessage = "Great minds think alike.";
+        System.out.println("My favorite color is: " + favColor);
+        System.out.println("My class start year is: " + classStartYear);
+        System.out.println("My middle initial is: " + middleInitial);
+        System.out.println("I have pets: " + havePets);
+        System.out.println("My nice message is: " + niceMessage);
+
+
+
+        //step 2
+
+
+        //step 3
+    }
 }
