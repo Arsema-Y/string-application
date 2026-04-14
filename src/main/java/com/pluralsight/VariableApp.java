@@ -12,8 +12,8 @@ public class VariableApp {
         short classStartYear = 2026;
         char middleInitial = 'A';
         boolean havePets = true;
-
         String niceMessage = "Great minds think alike.";
+
         System.out.println("My favorite color is: " + favColor);
         System.out.println("My class start year is: " + classStartYear);
         System.out.println("My middle initial is: " + middleInitial);
@@ -27,7 +27,7 @@ public class VariableApp {
         char favLetter = 'M';
         boolean isRaining = false;
 
-        System.out.println("In the past " + daysOfWeek + " days, I have been ordering coffee with my last " + coffeePrice + " dollars for " + favLetter + " because the weather app has been indicating the rain status is " + isRaining);
+        System.out.println("In the past " + daysOfWeek +  " days, I have been ordering coffee with my last " + coffeePrice + " dollars for " + favLetter + " because the weather app has been indicating the rain status is " + isRaining);
 
         //step 3 on Receipt class
     }
