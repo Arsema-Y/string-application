@@ -8,12 +8,14 @@ public class VariableApp {
         // print result
 
         //step 1
+        //Declare & initialize variables with appropriate data type
         String favColor = "Blue";
         short classStartYear = 2026;
         char middleInitial = 'A';
         boolean havePets = true;
         String niceMessage = "Great minds think alike.";
 
+        //Print the variable with contextual sentences
         System.out.println("My favorite color is: " + favColor);
         System.out.println("My class start year is: " + classStartYear);
         System.out.println("My middle initial is: " + middleInitial);
@@ -22,11 +24,13 @@ public class VariableApp {
 
 
         //step 2
+        //variables with numeric data types
         byte daysOfWeek = 7;
         double coffeePrice = 4.99;
         char favLetter = 'M';
         boolean isRaining = false;
 
+        //print numeric variables in a sentence
         System.out.println("In the past " + daysOfWeek +  " days, I have been ordering coffee with my last " + coffeePrice + " dollars for " + favLetter + " because the weather app has been indicating the rain status is " + isRaining);
 
         //step 3 on Receipt class
